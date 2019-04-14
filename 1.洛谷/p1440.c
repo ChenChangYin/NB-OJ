@@ -9,7 +9,7 @@
 
 #define MAX_N 2000000
 
-int q[MAX_N + 5] = {0}, head = 0, tail;
+int q[MAX_N + 5] = {0}, head = 0, tail = 0;
 int ind[MAX_N + 5] = {0};
 
 
